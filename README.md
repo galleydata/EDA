@@ -102,9 +102,8 @@
 
 ## Установка проекта
 
-```
-git clone 
-```
+[git clone](https://github.com/galleydata/EDA.git)
+
 
 ## Использование
 Вся информация о работе представлена в jupyter-ноутбуке project_3.ipynb.
